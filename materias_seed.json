@@ -1,0 +1,9260 @@
+[
+    {
+    "nombre": "TEORIA DE LA INFORMACION Y CODIFICACION",
+    "grupo": "1CM11",
+    "docente": "Gonzalez Medina Vera",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1202"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1202"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2104"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CM12",
+    "docente": "Cabrera Rivas Xochitl",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CM13",
+    "docente": "Gonzalez Lopez Santiago",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1111"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1111"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CM13",
+    "docente": "Gonzalez Lopez Santiago",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CM14",
+    "docente": "Aniceto Vargas Paula Flora",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CM14",
+    "docente": "Aniceto Vargas Paula Flora",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM15",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3105"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM15",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CM16",
+    "docente": "Flores Martínez Citlali",
+    "horarios": [
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CM21",
+    "docente": "Diaz Albarran Salvador Felipe",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3101"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3102"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CM22",
+    "docente": "Gonzalez Lopez Santiago",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CM23",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3213"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1211"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CM23",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CM24",
+    "docente": "Rojo Hernández Maribel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CM24",
+    "docente": "Rojo Hernández Maribel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM25",
+    "docente": "Corona Ramirez Beatriz Eugenia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM25",
+    "docente": "Corona Ramirez Beatriz Eugenia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CM26",
+    "docente": "",
+    "horarios": [],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CM31",
+    "docente": "Ley Mandujano Jose Juan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1201"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1205"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1207"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CM32",
+    "docente": "Gonzalez Lopez Santiago",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1111"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CM33",
+    "docente": "Vasco Mendez Edna Carla",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1110"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1101"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CM33",
+    "docente": "Vasco Mendez Edna Carla",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CM34",
+    "docente": "Aniceto Vargas Paula Flora",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CM34",
+    "docente": "Aniceto Vargas Paula Flora",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "IVONE FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM35",
+    "docente": "Hernandez Lopez Marisol",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM35",
+    "docente": "Hernandez Lopez Marisol",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CM41",
+    "docente": "Villarreal Aguirre Jose Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3109"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3109"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CM42",
+    "docente": "Ley Mandujano Jose Juan",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1203"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CM43",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3213"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CM43",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CM44",
+    "docente": "Pablo Gopar Gloria Alejandra",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CM44",
+    "docente": "Pablo Gopar Gloria Alejandra",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM45",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1102"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM45",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CM51",
+    "docente": "Cabrera Rivas Xochitl",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2208"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "2208"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2208"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CM52",
+    "docente": "Heredia Velasco Alma Rosa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3102"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CM53",
+    "docente": "Olivares Robles Miguel Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1101"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CM53",
+    "docente": "Olivares Robles Miguel Angel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CM54",
+    "docente": "Pablo Gopar Gloria Alejandra",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CM54",
+    "docente": "Pablo Gopar Gloria Alejandra",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM55",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CM55",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CV11",
+    "docente": "Angel Huerta Froylan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1105"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CV12",
+    "docente": "Olivares Mercado Jesus",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CV13",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1212"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3206"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CV13",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CV14",
+    "docente": "Aponte Olaya Julian Hugo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CV14",
+    "docente": "Aponte Olaya Julian Hugo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "PB03"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV15",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV15",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CV16",
+    "docente": "",
+    "horarios": [],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CV21",
+    "docente": "Morales Vergara Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1205"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1202"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1203"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CV22",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3113"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CV23",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "3102"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CV23",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CV24",
+    "docente": "Rojo Hernández Maribel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CV24",
+    "docente": "Rojo Hernández Maribel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV25",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2112"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV25",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CV31",
+    "docente": "Morales Vergara Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "1113"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1205"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "1203"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CV32",
+    "docente": "Olivares Mercado Jesus",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1113"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CV33",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CV33",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CV34",
+    "docente": "Pablo Gopar Gloria Alejandra",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CV34",
+    "docente": "Pablo Gopar Gloria Alejandra",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV35",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "PB05"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV35",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CV41",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1114"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "1109"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CV42",
+    "docente": "Cabrera Rivas Xochitl",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CV43",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1212"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CV43",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CV44",
+    "docente": "Amador Zaragoza Irma Alicia",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CV44",
+    "docente": "Amador Zaragoza Irma Alicia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV45",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV45",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "CALCULO DIFERENCIAL E INTEGRAL",
+    "grupo": "1CV51",
+    "docente": "Angel Huerta Froylan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1105"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE ALGEBRA",
+    "grupo": "1CV52",
+    "docente": "Bañuelos Duran Amparo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FISICA CLASICA",
+    "grupo": "1CV53",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "3206"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FISICA CLASICA",
+    "grupo": "1CV53",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. QUIMICA BASICA",
+    "grupo": "1CV54",
+    "docente": "Aquino Salinas Fernando David",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "QUIMICA BASICA",
+    "grupo": "1CV54",
+    "docente": "Aquino Salinas Fernando David",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1205"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV55",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "LAB. FUNDAMENTOS DE PROGRAMACION",
+    "grupo": "1CV55",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CM11",
+    "docente": "Carvajal Quiroz Eliel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CM12",
+    "docente": "Gonzalez Medina Vera",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1202"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1202"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2104"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM13",
+    "docente": "Vasco Mendez Edna Carla",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1110"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM13",
+    "docente": "Vasco Mendez Edna Carla",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CM14",
+    "docente": "Valverde Jiménez Jessica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "PB01"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "PB01"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "PB01"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM15",
+    "docente": "Corona Ramirez Beatriz Eugenia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM15",
+    "docente": "Corona Ramirez Beatriz Eugenia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1201"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CM16",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CM21",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CM22",
+    "docente": "Cabrera Rivas Xochitl",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2208"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2208"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2208"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM23",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3213"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM23",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CM24",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3114"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3113"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM25",
+    "docente": "Corona Ramirez Beatriz Eugenia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM25",
+    "docente": "Corona Ramirez Beatriz Eugenia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CM26",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CM31",
+    "docente": "Cabrera Rivas Xochitl",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "2208"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CM32",
+    "docente": "Ley Mandujano Jose Juan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1210"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1113"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1205"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM33",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1212"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM33",
+    "docente": "Cubillos Islas Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CM34",
+    "docente": "Rodríguez Acosta Adolfo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3203"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3101"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3110"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM35",
+    "docente": "Flores Ascencio Sabas",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM35",
+    "docente": "Flores Ascencio Sabas",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3105"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CM36",
+    "docente": "Cervantes Cabello Graciela Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2209"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CM41",
+    "docente": "Gonzalez Lopez Santiago",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CM42",
+    "docente": "Heredia Velasco Alma Rosa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3102"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3101"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3105"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM43",
+    "docente": "Cortés Pineda Patricia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1115"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CM43",
+    "docente": "Cortés Pineda Patricia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CM44",
+    "docente": "Rodríguez Acosta Adolfo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3203"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3106"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3110"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM45",
+    "docente": "Valdés Galicia Claudio Augusto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CM45",
+    "docente": "Valdés Galicia Claudio Augusto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CM46",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CV11",
+    "docente": "Márquez Rubio Juan Francisco",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CV12",
+    "docente": "Angel Huerta Froylan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1105"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV13",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1112"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1108"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV13",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CV14",
+    "docente": "Muñoz Guerrero Mario Antonio",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "2213"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "2213"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "2213"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV15",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV15",
+    "docente": "Resendiz Colin Pilar",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV15",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CV16",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1102"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CV21",
+    "docente": "Benitez Diaz Francisco Javier",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1110"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CV22",
+    "docente": "Angel Huerta Froylan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1105"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV23",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1112"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV23",
+    "docente": "Lopez Gonzalez Rodolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CV24",
+    "docente": "Rodríguez Buendía Jesús",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1115"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1112"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "1201"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV25",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV25",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "PB06"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CV26",
+    "docente": "Santos Jacome Celsa Piedad",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1207"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CV31",
+    "docente": "Vargas Reyes Orlando",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CV32",
+    "docente": "Sampedro Roberto Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3108"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3107"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV33",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1212"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV33",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CV34",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3113"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3113"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3113"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV35",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV35",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CV36",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2026"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ALGEBRA LINEAL",
+    "grupo": "2CV41",
+    "docente": "Benitez Diaz Francisco Javier",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "CALCULO VECTORIAL",
+    "grupo": "2CV42",
+    "docente": "Morales Vergara Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1205"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1202"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1203"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV43",
+    "docente": "Cortés Pineda Patricia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1114"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. ELECTRICIDAD Y MAGNETISMO",
+    "grupo": "2CV43",
+    "docente": "Cortés Pineda Patricia",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "MATEMATICAS DISCRETAS",
+    "grupo": "2CV44",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2206"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2206"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2206"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "LAB. PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV45",
+    "docente": "De La Cruz Tellez Arturo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+    "grupo": "2CV45",
+    "docente": "De La Cruz Tellez Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "2CV46",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3214"
+      }
+    ],
+    "semestre": 2
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CM11",
+    "docente": "Solís Luna Nancy Brisa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1210"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CM12",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3107"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CM12",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CM13",
+    "docente": "Rodriguez Peralta Patricia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "PB04"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CM13",
+    "docente": "Rodriguez Peralta Patricia",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM14",
+    "docente": "Martinez Martinez Margarita",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM14",
+    "docente": "Martinez Martinez Margarita",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CM15",
+    "docente": "Azuara Perez Lorena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CM15",
+    "docente": "Azuara Perez Lorena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CM16",
+    "docente": "Cervantes Cabello Graciela Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CM21",
+    "docente": "Gonzalez Lopez Santiago",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1111"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1111"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CM22",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CM22",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2026"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CM23",
+    "docente": "Rodriguez Peralta Patricia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "PB02"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CM23",
+    "docente": "Rodriguez Peralta Patricia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM24",
+    "docente": "Martinez Martinez Margarita",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM24",
+    "docente": "Martinez Martinez Margarita",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1101"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CM25",
+    "docente": "Azuara Perez Lorena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CM25",
+    "docente": "Azuara Perez Lorena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CM26",
+    "docente": "Vigueras Bonilla Maria Juana",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3104"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CM31",
+    "docente": "Hernandez Suarez Aldo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1215"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CM32",
+    "docente": "Guzman Rodriguez Jose Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CM32",
+    "docente": "Guzman Rodriguez Jose Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CM33",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3215"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CM33",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM34",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM34",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2206"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CM35",
+    "docente": "Ley Mandujano Jose Juan",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1205"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CM35",
+    "docente": "Ley Mandujano Jose Juan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CM36",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CM41",
+    "docente": "Angel Huerta Froylan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1103"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CM42",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CM42",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CM43",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3214"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1213"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CM43",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM44",
+    "docente": "Estrada Arriaga Carlos Alberto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CM44",
+    "docente": "Estrada Arriaga Carlos Alberto",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CM45",
+    "docente": "Azuara Perez Lorena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1110"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CM45",
+    "docente": "Azuara Perez Lorena",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CM46",
+    "docente": "Cervantes Cabello Graciela Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2209"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CV11",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3113"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CV12",
+    "docente": "Ugalde Licea Adolfo Sabino",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3109"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CV12",
+    "docente": "Ugalde Licea Adolfo Sabino",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CV13",
+    "docente": "Diaz Rosas Javier Fernando",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1113"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CV13",
+    "docente": "Diaz Rosas Javier Fernando",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV14",
+    "docente": "Valles Montanez Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV14",
+    "docente": "Bautista Arias Jose Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV14",
+    "docente": "Valles Montanez Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CV15",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "PB05"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CV15",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CV16",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CV21",
+    "docente": "Benitez Diaz Francisco Javier",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1108"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1112"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CV22",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1108"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CV22",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CV23",
+    "docente": "Diaz Rosas Javier Fernando",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1113"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1115"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CV23",
+    "docente": "Diaz Rosas Javier Fernando",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV24",
+    "docente": "Valles Montanez Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV24",
+    "docente": "Bautista Arias Jose Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV24",
+    "docente": "Valles Montanez Luis",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2205"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CV25",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "PB05"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CV25",
+    "docente": "Gonzalez Acatitla Clarissa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CV26",
+    "docente": "Santos Jacome Celsa Piedad",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ECUACIONES DIFERENCIALES",
+    "grupo": "3CV31",
+    "docente": "Benitez Diaz Francisco Javier",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS DE CA Y CD",
+    "grupo": "3CV32",
+    "docente": "Ugalde Licea Adolfo Sabino",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3109"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS DE CA Y CD",
+    "grupo": "3CV32",
+    "docente": "Ugalde Licea Adolfo Sabino",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2026"
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS I",
+    "grupo": "3CV33",
+    "docente": "Diaz Rosas Javier Fernando",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "1115"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS I",
+    "grupo": "3CV33",
+    "docente": "Diaz Rosas Javier Fernando",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV34",
+    "docente": "Valles Montanez Luis",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LENGUAJES DE BAJO NIVEL",
+    "grupo": "3CV34",
+    "docente": "Valles Montanez Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ESTRUCTURA DE DATOS",
+    "grupo": "3CV35",
+    "docente": "De La Cruz Tellez Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "LAB. ESTRUCTURA DE DATOS",
+    "grupo": "3CV35",
+    "docente": "De La Cruz Tellez Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "3CV36",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 3
+  },
+  {
+    "nombre": "ANALISIS NUMERICO",
+    "grupo": "4CM11",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CM11",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS II",
+    "grupo": "4CM13",
+    "docente": "Estrada Arriaga Carlos Alberto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS II",
+    "grupo": "4CM13",
+    "docente": "Estrada Arriaga Carlos Alberto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ELECTRONICA ANALOGICA",
+    "grupo": "4CM14",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3110"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ELECTRONICA ANALOGICA",
+    "grupo": "4CM14",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "4CM16",
+    "docente": "Cervantes Cabello Graciela Irene",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "2209"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ANALISIS NUMERICO",
+    "grupo": "4CM21",
+    "docente": "Heredia Velasco Alma Rosa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3103"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CM21",
+    "docente": "Heredia Velasco Alma Rosa",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS II",
+    "grupo": "4CM23",
+    "docente": "Estrada Arriaga Carlos Alberto",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS II",
+    "grupo": "4CM23",
+    "docente": "Estrada Arriaga Carlos Alberto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ELECTRONICA ANALOGICA",
+    "grupo": "4CM24",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3110"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ELECTRONICA ANALOGICA 4CM2411:30 a Angoa Torres Anselmo LAB. ELECTRONICA ANALOGICA",
+    "grupo": "4CM24",
+    "docente": "Sin Asignar",
+    "horarios": [],
+    "semestre": 4
+  },
+  {
+    "nombre": "TEORIA DE AUTOMATAS",
+    "grupo": "4CM25",
+    "docente": "Ley Mandujano Jose Juan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "1210"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1201"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1207"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "4CM26",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ANALISIS NUMERICO",
+    "grupo": "4CM31",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CM31",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS II",
+    "grupo": "4CM33",
+    "docente": "Duchén Sánchez Gonzalo Isaac",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ELECTRONICA ANALOGICA",
+    "grupo": "4CM34",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3110"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ELECTRONICA ANALOGICA",
+    "grupo": "4CM34",
+    "docente": "Angoa Torres Anselmo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "TEORIA DE AUTOMATAS",
+    "grupo": "4CM35",
+    "docente": "Hernandez Lopez Marisol",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "2026"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2025"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "4CM36",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CV11",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS II",
+    "grupo": "4CV13",
+    "docente": "Calvino Gallardo Marbella",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS II",
+    "grupo": "4CV13",
+    "docente": "Sin Asignar",
+    "horarios": [],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ELECTRONICA ANALOGICA",
+    "grupo": "4CV14",
+    "docente": "Ugalde Licea Adolfo Sabino",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "TEORIA DE AUTOMATAS",
+    "grupo": "4CV15",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3111"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3108"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "4CV16",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CV21",
+    "docente": "Rodriguez Gomez Juan Angel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS II",
+    "grupo": "4CV23",
+    "docente": "Calvino Gallardo Marbella",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ELECTRONICA ANALOGICA",
+    "grupo": "4CV24",
+    "docente": "Vargas Reyes Orlando",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3203"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ELECTRONICA ANALOGICA",
+    "grupo": "4CV24",
+    "docente": "Vargas Reyes Orlando",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "4CV26",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ANALISIS NUMERICO",
+    "grupo": "4CV31",
+    "docente": "Valdés Galicia Claudio Augusto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1206"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ANALISIS NUMERICO",
+    "grupo": "4CV31",
+    "docente": "Valdés Galicia Claudio Augusto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CV31",
+    "docente": "Valdés Galicia Claudio Augusto",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ANALISIS NUMERICO",
+    "grupo": "4CV31",
+    "docente": "Valdés Galicia Claudio Augusto",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "CIRCUITOS LOGICOS II",
+    "grupo": "4CV33",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "2206"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. CIRCUITOS LOGICOS II",
+    "grupo": "4CV33",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "LAB. ELECTRONICA ANALOGICA",
+    "grupo": "4CV34",
+    "docente": "Ugalde Licea Adolfo Sabino",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CM12",
+    "docente": "Sanchez Zamora Braulio",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2204"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CM12",
+    "docente": "Sanchez Zamora Braulio",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE ALGORITMOS",
+    "grupo": "5CM13",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "COMPILADORES",
+    "grupo": "5CM14",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2103"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. COMPILADORES",
+    "grupo": "5CM14",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CM15",
+    "docente": "García Ruíz Jesús",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "5CM16",
+    "docente": "Vigueras Bonilla Maria Juana",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "PROBABILIDAD Y ESTADISTICA",
+    "grupo": "5CM21",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "3202"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3113"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CM22",
+    "docente": "Reyes Reyes Rogelio",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2026"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "ANALISIS DE ALGORITMOS",
+    "grupo": "5CM23",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE ALGORITMOS",
+    "grupo": "5CM23",
+    "docente": "Azorín Vega Claudia",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. COMPILADORES",
+    "grupo": "5CM24",
+    "docente": "Veloz Ortiz Luis Efren",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CM25",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CM25",
+    "docente": "Ramirez Hernandez Jazmin",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "1213"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "PROBABILIDAD Y ESTADISTICA",
+    "grupo": "5CV11",
+    "docente": "Bañuelos Duran Amparo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2103"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2103"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CV12",
+    "docente": "Vargas Reyes Orlando",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3203"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3110"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE ALGORITMOS",
+    "grupo": "5CV13",
+    "docente": "Resendiz Colin Pilar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "COMPILADORES",
+    "grupo": "5CV14",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. COMPILADORES",
+    "grupo": "5CV14",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CV15",
+    "docente": "Galvan Chavez Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CV22",
+    "docente": "Vargas Reyes Orlando",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "ANALISIS DE ALGORITMOS",
+    "grupo": "5CV23",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3111"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE ALGORITMOS",
+    "grupo": "5CV23",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "COMPILADORES",
+    "grupo": "5CV24",
+    "docente": "Resendiz Colin Pilar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CV25",
+    "docente": "Galvan Chavez Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CV25",
+    "docente": "Galvan Chavez Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3105"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3102"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CV32",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1108"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE SENALES ANALOGICAS",
+    "grupo": "5CV32",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ANALISIS DE ALGORITMOS",
+    "grupo": "5CV33",
+    "docente": "Cruz Garcia Oscar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "COMPILADORES",
+    "grupo": "5CV34",
+    "docente": "Perez Cebreros Juan Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3215"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. COMPILADORES",
+    "grupo": "5CV34",
+    "docente": "Perez Cebreros Juan Arturo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. ORGANIZACION DE COMPUTADORAS",
+    "grupo": "5CV35",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "LAB. MODULACION DIGITAL",
+    "grupo": "6CM11",
+    "docente": "Cruz Ramos Clara",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "MODULACION DIGITAL",
+    "grupo": "6CM11",
+    "docente": "Cruz Ramos Clara",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3202"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CM12",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CM12",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "3112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3202"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. SISTEMAS OPERATIVOS",
+    "grupo": "6CM13",
+    "docente": "Flores Ascencio Sabas",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "SISTEMAS OPERATIVOS",
+    "grupo": "6CM13",
+    "docente": "Flores Ascencio Sabas",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CM14",
+    "docente": "García Ruíz Jesús",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CM14",
+    "docente": "García Ruíz Jesús",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "INGENIERIA DE SOFTWARE",
+    "grupo": "6CM15",
+    "docente": "Rodríguez Acosta Adolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "3112"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. INGENIERIA DE SOFTWARE",
+    "grupo": "6CM15",
+    "docente": "Rodríguez Acosta Adolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "METODOLOGIA DE LA INVESTIGACION",
+    "grupo": "6CM16",
+    "docente": "Martinez Camargo Maria Alejandra",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2201"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. MODULACION DIGITAL",
+    "grupo": "6CM21",
+    "docente": "Cruz Ramos Clara",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "MODULACION DIGITAL",
+    "grupo": "6CM21",
+    "docente": "Cruz Ramos Clara",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3207"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3208"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CM22",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CM22",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3202"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. SISTEMAS OPERATIVOS",
+    "grupo": "6CM23",
+    "docente": "Hernandez Lopez Marisol",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "SISTEMAS OPERATIVOS",
+    "grupo": "6CM23",
+    "docente": "Hernandez Lopez Marisol",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "3209"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CM24",
+    "docente": "García Ruíz Jesús",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3206"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CM24",
+    "docente": "García Ruíz Jesús",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "INGENIERIA DE SOFTWARE",
+    "grupo": "6CM25",
+    "docente": "Rodríguez Acosta Adolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3110"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. INGENIERIA DE SOFTWARE",
+    "grupo": "6CM25",
+    "docente": "Rodríguez Acosta Adolfo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "METODOLOGIA DE LA INVESTIGACION",
+    "grupo": "6CM26",
+    "docente": "Martinez Camargo Maria Alejandra",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "2110"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. MODULACION DIGITAL",
+    "grupo": "6CV11",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "MODULACION DIGITAL",
+    "grupo": "6CV11",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "2026"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CV12",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CV12",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "2101"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "2101"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. SISTEMAS OPERATIVOS",
+    "grupo": "6CV13",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "SISTEMAS OPERATIVOS",
+    "grupo": "6CV13",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CV14",
+    "docente": "Bautista Arias Jose Luis",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "3110"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CV14",
+    "docente": "Bautista Arias Jose Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "INGENIERIA DE SOFTWARE",
+    "grupo": "6CV15",
+    "docente": "Martinez Corona Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. INGENIERIA DE SOFTWARE",
+    "grupo": "6CV15",
+    "docente": "Martinez Corona Eduardo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "METODOLOGIA DE LA INVESTIGACION",
+    "grupo": "6CV16",
+    "docente": "Mendiola Medellín María Elena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "PB01"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. MODULACION DIGITAL",
+    "grupo": "6CV21",
+    "docente": "Velazquez Lopez Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "MODULACION DIGITAL",
+    "grupo": "6CV21",
+    "docente": "Velazquez Lopez Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2204"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CV22",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "TEORIA DE CONTROL ANALOGICO",
+    "grupo": "6CV22",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "2101"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. SISTEMAS OPERATIVOS",
+    "grupo": "6CV23",
+    "docente": "De La Cruz Tellez Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "SISTEMAS OPERATIVOS",
+    "grupo": "6CV23",
+    "docente": "De La Cruz Tellez Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CV24",
+    "docente": "Bautista Arias Jose Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. ARQUITECTURA DE COMPUTADORAS",
+    "grupo": "6CV24",
+    "docente": "Bautista Arias Jose Luis",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "INGENIERIA DE SOFTWARE",
+    "grupo": "6CV25",
+    "docente": "Martinez Corona Eduardo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3104"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "LAB. INGENIERIA DE SOFTWARE",
+    "grupo": "6CV25",
+    "docente": "Martinez Corona Eduardo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "METODOLOGIA DE LA INVESTIGACION",
+    "grupo": "6CV26",
+    "docente": "Mendiola Medellín María Elena",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "PB01"
+      }
+    ],
+    "semestre": 6
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM11",
+    "docente": "Rodriguez Quintanar Rosa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM11",
+    "docente": "Rodriguez Quintanar Rosa",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CM12",
+    "docente": "Sanchez Zamora Braulio",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CM12",
+    "docente": "Por asignar",
+    "horarios": [
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "BASES DE DATOS",
+    "grupo": "7CM13",
+    "docente": "Cortes Bazan Carlos",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. BASES DE DATOS",
+    "grupo": "7CM13",
+    "docente": "Cortes Bazan Carlos",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM15",
+    "docente": "Martinez Camargo Maria",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM21",
+    "docente": "Rodriguez Quintanar Rosa",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM21",
+    "docente": "Rodriguez Quintanar Rosa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CM22",
+    "docente": "Loaiza Brito José Antonio",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CM22",
+    "docente": "Loaiza Brito José Antonio",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "BASES DE DATOS",
+    "grupo": "7CM23",
+    "docente": "Cortes Bazan Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. BASES DE DATOS",
+    "grupo": "7CM23",
+    "docente": "Cortes Bazan Carlos",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM25",
+    "docente": "Por asignar",
+    "horarios": [
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM31",
+    "docente": "Rodriguez Quintanar Rosa",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM31",
+    "docente": "Rodriguez Quintanar Rosa",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CM32",
+    "docente": "Loaiza Brito José Antonio",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CM32",
+    "docente": "Por asignar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. BASES DE DATOS",
+    "grupo": "7CM33",
+    "docente": "Sin Asignar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM35",
+    "docente": "Cortes Bazan Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "07:00",
+        "fin": "10:00",
+        "salon": "1210"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "07:00",
+        "fin": "10:00",
+        "salon": "2213"
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM41",
+    "docente": "Cortes Bazan Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CM42",
+    "docente": "Reyes Reyes Rogelio",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "ALGORITMOS DE COMPUTO I",
+    "grupo": "7CM43",
+    "docente": "Sanchez Perez Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INTERFACES INTELIGENTES I",
+    "grupo": "7CM44",
+    "docente": "Avalos Ochoa Juan Gerardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "COMPUTO APLICADO A SISTEMAS ECOLOGICOS I",
+    "grupo": "7CM45",
+    "docente": "Tapia Sanchez Daniel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2203"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2201"
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV11",
+    "docente": "Tapia Sanchez Daniel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV11",
+    "docente": "Tapia Sanchez Daniel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CV12",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CV12",
+    "docente": "Por asignar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. BASES DE DATOS",
+    "grupo": "7CV13",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV15",
+    "docente": "Herrera Resendiz Leonor",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "PB04"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV21",
+    "docente": "Tapia Sanchez Daniel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CV22",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TEORIA DE CONTROL DIGITAL",
+    "grupo": "7CV22",
+    "docente": "Cruz Gonzalez Hayari Lizet",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2101"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "BASES DE DATOS",
+    "grupo": "7CV23",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "LAB. BASES DE DATOS",
+    "grupo": "7CV23",
+    "docente": "Mora Jain Jesus",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV25",
+    "docente": "Herrera Resendiz Leonor",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "PB04"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV31",
+    "docente": "Miranda Hernandez Miguel Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2214"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2214"
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV32",
+    "docente": "Sin Asignar",
+    "horarios": [],
+    "semestre": 7
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "7CV32",
+    "docente": "Castro Madrid Luis Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2111"
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "ALGORITMOS DE COMPUTO I",
+    "grupo": "7CV33",
+    "docente": "Vazquez Fernandez Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2111"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2110"
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "INTERFACES INTELIGENTES I",
+    "grupo": "7CV34",
+    "docente": "Muñoz Guerrero Mario Antonio",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2213"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": "2213"
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "COMPUTO APLICADO A SISTEMAS ECOLOGICOS I",
+    "grupo": "7CV35",
+    "docente": "Sin Asignar",
+    "horarios": [],
+    "semestre": 7
+  },
+  {
+    "nombre": "COMPUTO APLICADO A SISTEMAS ECOLOGICOS I",
+    "grupo": "7CV35",
+    "docente": "Arcos Pichardo Alejandro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CM11",
+    "docente": "Guzman Rodriguez Jose Eduardo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CM11",
+    "docente": "Guzman Rodriguez Jose Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2109"
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CM12",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CM12",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": "2205"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CM13",
+    "docente": "Martinez Camargo Maria",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CM13",
+    "docente": "Martinez Camargo Maria",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CM14",
+    "docente": "Cervantes Cabello Graciela Irene",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CM14",
+    "docente": "Trejo Baños Alejandro",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CM21",
+    "docente": "Guzman Rodriguez Jose Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CM21",
+    "docente": "Guzman Rodriguez Jose Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CM22",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CM22",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": "2026"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "7:00",
+        "fin": "8:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CM23",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CM23",
+    "docente": "Martinez Camargo Maria",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CM23",
+    "docente": "Martinez Camargo Maria",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "8:30",
+        "fin": "10:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CM24",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CM24",
+    "docente": "Cabrera Rivas Xochitl",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "8CM31",
+    "docente": "Veloz Ortiz Luis Efren",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2104"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2110"
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "ALGORITMOS DE COMPUTO II",
+    "grupo": "8CM33",
+    "docente": "Hernandez Suarez Aldo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "ALGORITMOS DE COMPUTO II",
+    "grupo": "8CM33",
+    "docente": "Sanchez Perez Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2202"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2212"
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INTERFACES INTELIGENTES II",
+    "grupo": "8CM34",
+    "docente": "Avalos Ochoa Juan Gerardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2026"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "COMPUTO APLICADO A SISTEMAS ECOLOGICOS II",
+    "grupo": "8CM35",
+    "docente": "Loaiza Brito José Antonio",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "2112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "LAB. REDES NEURONALES",
+    "grupo": "8CM41",
+    "docente": "Toscano Medina Linda Karina",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES NEURONALES",
+    "grupo": "8CM41",
+    "docente": "Toscano Medina Linda Karina",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INTELIGENCIA ARTIFICIAL",
+    "grupo": "8CM42",
+    "docente": "Veloz Ortiz Luis Efren",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "2110"
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INTELIGENCIA ARTIFICIAL",
+    "grupo": "8CM42",
+    "docente": "Veloz Ortiz Luis Efren",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROGRAMACION LOGICA",
+    "grupo": "8CM43",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "DISENO ASISTIDO POR COMPUTADORA",
+    "grupo": "8CM44",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "LENGUAJES PARA ARQUITECTURA EN PARALELO",
+    "grupo": "8CM45",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS EXPERTOS",
+    "grupo": "8CM46",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS EXPERTOS",
+    "grupo": "8CM46",
+    "docente": "Salas Jimenez Veronica",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CV11",
+    "docente": "Nuñez Galindo Raúl",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CV11",
+    "docente": "Nuñez Galindo Raúl",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CV12",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CV12",
+    "docente": "Por asignar",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CV13",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CV13",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CV14",
+    "docente": "Calvino Gallardo Marbella",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CV14",
+    "docente": "Velazquez Lopez Jose",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CV14",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CV21",
+    "docente": "Santana Alquicira Raymundo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES DE COMPUTADORAS",
+    "grupo": "8CV21",
+    "docente": "Santana Alquicira Raymundo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CV22",
+    "docente": "Miranda Hernandez Miguel Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CV22",
+    "docente": "Nuñez Galindo Raúl",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS DISTRIBUIDOS",
+    "grupo": "8CV22",
+    "docente": "Por asignar",
+    "horarios": [
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CV23",
+    "docente": "Herrera Resendiz Leonor",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "FORMULACION Y EVALUACION DE PROYECTOS",
+    "grupo": "8CV23",
+    "docente": "Herrera Resendiz Leonor",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CV24",
+    "docente": "Cedillo Hernandez Manuel",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CV24",
+    "docente": "Mendiola Medellín María Elena",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROYECTO DE INGENIERIA",
+    "grupo": "8CV24",
+    "docente": "Guevara Lopez Pedro",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INFORMACION",
+    "grupo": "8CV31",
+    "docente": "Miranda Hernandez Miguel Angel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "2214"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "ALGORITMOS DE COMPUTO II",
+    "grupo": "8CV33",
+    "docente": "Vazquez Fernandez Eduardo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "2111"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INTERFACES INTELIGENTES II",
+    "grupo": "8CV34",
+    "docente": "Cabrera Tejeda Juan Jose",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1108"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "COMPUTO APLICADO A SISTEMAS ECOLOGICOS II",
+    "grupo": "8CV35",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "LAB. REDES NEURONALES",
+    "grupo": "8CV41",
+    "docente": "Portillo Portillo José",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "REDES NEURONALES",
+    "grupo": "8CV41",
+    "docente": "Portillo Portillo José",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INTELIGENCIA ARTIFICIAL",
+    "grupo": "8CV42",
+    "docente": "Perez Cebreros Juan Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "2207"
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "INTELIGENCIA ARTIFICIAL",
+    "grupo": "8CV42",
+    "docente": "Perez Cebreros Juan Arturo",
+    "horarios": [
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": ""
+      }
+    ],
+    "semestre": 8
+  },
+  {
+    "nombre": "PROGRAMACION LOGICA",
+    "grupo": "8CV43",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "DISENO ASISTIDO POR COMPUTADORA",
+    "grupo": "8CV44",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "LENGUAJES PARA ARQUITECTURA EN PARALELO",
+    "grupo": "8CV45",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "SISTEMAS EXPERTOS",
+    "grupo": "8CV46",
+    "docente": "Por asignar",
+    "horarios": [],
+    "semestre": 8
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CM36",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Miércoles",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "1105"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "1108"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "1106"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CM46",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1105"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "1105"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "1106"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CM56",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "3209"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3201"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3111"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CV26",
+    "docente": "Santos Jacome Celsa Piedad",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1114"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1207"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1113"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CV36",
+    "docente": "Santos Jacome Celsa Piedad",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1114"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1207"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1111"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CV46",
+    "docente": "Flores Martinez Citlali",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1101"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1102"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1105"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "1CV56",
+    "docente": "Vigueras Bonilla Maria Juana",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3104"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3104"
+      }
+    ],
+    "semestre": 1
+  },
+  {
+    "nombre": "VARIABLE COMPLEJA Y ANALISIS DE FOURIER",
+    "grupo": "4CM12",
+    "docente": "Villarreal Aguirre Jose Luis",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3109"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3109"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3109"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "3109"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "TEORIA DE AUTOMATAS",
+    "grupo": "4CM15",
+    "docente": "Hernandez Lopez Marisol",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3210"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "07:00",
+        "fin": "08:30",
+        "salon": "3206"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3209"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "07:00",
+        "fin": "08:30",
+        "salon": "3204"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "VARIABLE COMPLEJA Y ANALISIS DE FOURIER",
+    "grupo": "4CM22",
+    "docente": "Diaz Albarran Salvador Felipe",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3101"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3102"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "07:00",
+        "fin": "08:30",
+        "salon": "3101"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "salon": "3102"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "VARIABLE COMPLEJA Y ANALISIS DE FOURIER",
+    "grupo": "4CM32",
+    "docente": "Galvan de Sampedro Roberto Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3103"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3103"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3102"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "13:00",
+        "fin": "14:30",
+        "salon": "3102"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "VARIABLE COMPLEJA Y ANALISIS DE FOURIER",
+    "grupo": "4CV12",
+    "docente": "Morales Vergara Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1113"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1205"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1203"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "1204"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "VARIABLE COMPLEJA Y ANALISIS DE FOURIER",
+    "grupo": "4CV22",
+    "docente": "Galvan de Sampedro Roberto Pedro",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3108"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3107"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3104"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3104"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "TEORIA DE AUTOMATAS",
+    "grupo": "4CV25",
+    "docente": "Calzada Salas Ricardo Israel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3203"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3111"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "3111"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3209"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "VARIABLE COMPLEJA Y ANALISIS DE FOURIER",
+    "grupo": "4CV32",
+    "docente": "De La Cruz Alejo Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "2111"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "2203"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "2105"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "2101"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "TEORIA DE AUTOMATAS",
+    "grupo": "4CV35",
+    "docente": "Perez Cebreros Juan Arturo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3112"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3111"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3111"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3115"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "4CV36",
+    "docente": "Moreno Guzmán María Araceli",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3111"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3112"
+      }
+    ],
+    "semestre": 4
+  },
+  {
+    "nombre": "PROBABILIDAD Y ESTADISTICA",
+    "grupo": "5CM11",
+    "docente": "Perez Torres Carlos",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "3112"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "3113"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3110"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "5CM26",
+    "docente": "Vigueras Bonilla Maria Juana",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "08:30",
+        "fin": "10:00",
+        "salon": "3104"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3104"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "11:30",
+        "fin": "13:00",
+        "salon": "3104"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "5CV16",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3214"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3115"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3113"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "PROBABILIDAD Y ESTADISTICA",
+    "grupo": "5CV21",
+    "docente": "Bañuelos Duran Amparo",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "2103"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "2103"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "2103"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "5CV26",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3214"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "20:30",
+        "fin": "22:00",
+        "salon": "3115"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "3113"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "PROBABILIDAD Y ESTADISTICA",
+    "grupo": "5CV31",
+    "docente": "Martínez López Juan Gabriel",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "19:00",
+        "fin": "20:30",
+        "salon": "1212"
+      },
+      {
+        "dia": "Martes",
+        "inicio": "16:00",
+        "fin": "17:30",
+        "salon": "3206"
+      },
+      {
+        "dia": "Jueves",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "1215"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "HUMANIDADES",
+    "grupo": "5CV36",
+    "docente": "Enriquez Arreola Sandra Luz",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3214"
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "17:30",
+        "fin": "19:00",
+        "salon": "3115"
+      },
+      {
+        "dia": "Viernes",
+        "inicio": "14:30",
+        "fin": "16:00",
+        "salon": "3102"
+      }
+    ],
+    "semestre": 5
+  },
+  {
+    "nombre": "NUEVAS TECNOLOGIAS EN LA TRANSFERENCIA DE LA INFORMACION",
+    "grupo": "7CM14",
+    "docente": "",
+    "horarios": [],
+    "semestre": 7
+  },
+  {
+    "nombre": "TRANSFERENCIA Y PROCESAMIENTO DE LA INFORMACION I",
+    "grupo": "7CM24",
+    "docente": "",
+    "horarios": [],
+    "semestre": 7
+  },
+  {
+    "nombre": "INTERFACES INTELIGENTES I",
+    "grupo": "7CM34",
+    "docente": "",
+    "horarios": [],
+    "semestre": 7
+  },
+  {
+    "nombre": "NUEVAS TECNOLOGIAS EN LA TRANSFERENCIA DE LA INFORMACION",
+    "grupo": "7CV14",
+    "docente": "Unidad Culhuacan",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TRANSFERENCIA Y PROCESAMIENTO DE LA INFORMACION I",
+    "grupo": "7CV24",
+    "docente": "",
+    "horarios": [
+      {
+        "dia": "Lunes",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      },
+      {
+        "dia": "Miércoles",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "salon": ""
+      }
+    ],
+    "semestre": 7
+  },
+  {
+    "nombre": "TRANSFERENCIA Y PROCESAMIENTO DE LA INFORMACION II",
+    "grupo": "8CM32",
+    "docente": "Bravo Rodríguez Víctor Manuel",
+    "semestre": 8,
+    "horarios": []
+  },
+  {
+    "nombre": "TRANSFERENCIA Y PROCESAMIENTO DE LA INFORMACION II",
+    "grupo": "8CV32",
+    "docente": "",
+    "horarios": [],
+    "semestre": 8
+  }
+
+  
+
+  ]
