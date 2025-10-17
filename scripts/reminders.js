@@ -1,94 +1,94 @@
-// scripts/reminders.js
-const admin = require('firebase-admin');
-const moment = require('moment-timezone');
+const snap = await DB.collection('schedules').get();
+let sendCount = 0;
 
-const sa = JSON.parse(process.env.GCP_SA_KEY);
-admin.initializeApp({
-  credential: admin.credential.cert(sa),
-  projectId: process.env.GCP_PROJECT_ID,
-});
+for (const doc of snap.docs) {
+  const data = doc.data();
 
-const DB = admin.firestore();
+  // Toma el token del campo o del ID del doc
+  const token = data.token || doc.id;
+  if (!token) {
+    console.log(`⚠️  Documento ${doc.id} sin token. Saltando.`);
+    continue;
+  }
 
-// Normalizador de día (igual que en Flutter)
-function toWeekday(dia) {
-  const s = (dia||'').toLowerCase()
-    .replaceAll('á','a').replaceAll('é','e').replaceAll('í','i').replaceAll('ó','o').replaceAll('ú','u').trim();
-  if (s.startsWith('lun')) return 1;
-  if (s.startsWith('mar')) return 2;
-  if (s.startsWith('mie')) return 3;
-  if (s.startsWith('jue')) return 4;
-  if (s.startsWith('vie')) return 5;
-  if (s.startsWith('sab')) return 6;
-  if (s.startsWith('dom')) return 7;
-  return 1;
-}
+  // Asegura arreglo de clases
+  const classes = Array.isArray(data.classes) ? data.classes : [];
+  if (!classes.length) {
+    console.log(`ℹ️  ${token.slice(0, 12)}… sin clases. Saltando.`);
+    continue;
+  }
 
-async function run() {
-  const now = moment().tz('America/Mexico_City'); // o la tz por defecto
-  const graceMin = 10; // ventana de gracia
+  const tz = data.tz || 'America/Mexico_City';
+  const now = moment().tz(tz);
+  const nowIsoWd = now.isoWeekday(); // 1 lunes … 7 domingo
 
-  // 1) Lee todos los schedules
-  const snap = await DB.collection('schedules').get();
-  const sends = [];
+  // Mapea día → número
+  const toWd = (dia) => {
+    const s = (dia || '').toLowerCase()
+      .replace('á','a').replace('é','e').replace('í','i')
+      .replace('ó','o').replace('ú','u').trim();
+    if (s.startsWith('lun')) return 1;
+    if (s.startsWith('mar')) return 2;
+    if (s.startsWith('mie')) return 3;
+    if (s.startsWith('jue')) return 4;
+    if (s.startsWith('vie')) return 5;
+    if (s.startsWith('sab')) return 6;
+    if (s.startsWith('dom')) return 7;
+    return 1;
+  };
 
-  for (const doc of snap.docs) {
-    const data = doc.data();
-    const token = data.token;
-    const tz = data.tz || 'America/Mexico_City';
-    const classes = Array.isArray(data.classes) ? data.classes : [];
-    const nowTz = moment().tz(tz);
+  for (const h of classes) {
+    const wd = toWd(h.dia);
+    const [hh, mm] = String(h.inicio || '07:00').split(':').map(Number);
 
-    // 2) Para cada clase, genera T-10 y T-5 de la PRÓXIMA ocurrencia semanal
-    for (const cls of classes) {
-      const wd = toWeekday(cls.dia);
-      const [h, m] = (cls.inicio||'07:00').split(':').map(Number);
+    // próxima ocurrencia de esa clase
+    let start = now.clone().isoWeekday(wd).hour(hh).minute(mm).second(0).millisecond(0);
+    if (start.isBefore(now)) start = start.add(1, 'week');
 
-      // Próximo inicio de clase según tz/weekday
-      let start = nowTz.clone().isoWeekday(wd).hour(h).minute(m).second(0).millisecond(0);
-      if (start.isBefore(nowTz)) start = start.add(1, 'week');
+    for (const minutesBefore of [10, 5]) {
+      const execAt = start.clone().subtract(minutesBefore, 'minutes');
+      const diffMin = execAt.diff(now, 'minutes');
 
-      for (const minutesBefore of [10,5]) {
-        const execAt = start.clone().subtract(minutesBefore, 'minutes');
+      // ventana de disparo: entre -10 y +1 min de la marca objetivo
+      if (diffMin >= -10 && diffMin <= 1) {
+        const title = `Clase: ${h.materia ?? h.nombre ?? 'Materia'}`;
+        const body  = `Empieza a las ${start.format('HH:mm')}${h.salon ? ` • Salón ${h.salon}` : ''}`;
 
-        // ¿Debemos enviar ahora? ventana = [-graceMin, +1] minutos desde "ahora"
-        const diffMin = execAt.diff(nowTz, 'minutes');
-        if (diffMin >= -graceMin && diffMin <= 1) {
-          // Enviar FCM
-          const title = `⏰ ${cls.materia || 'Clase'}`;
-          const hourStr = start.format('HH:mm');
-          const body = cls.salon ? `Empieza a las ${hourStr} en ${cls.salon}.` : `Empieza a las ${hourStr}.`;
+        console.log(`📤 Enviando a ${token.slice(0, 12)}…  (${minutesBefore} min antes)  ${title}`);
 
-          const msg = {
-            token,
-            android: {
-              priority: 'high',
-              ttl: 40 * 60 * 1000, // 40 min
-              notification: { title, body },
+        await admin.messaging().send({
+          token, // 👈 AHORA SÍ SIEMPRE HAY TOKEN
+
+          // hace que Android muestre la noti en segundo plano
+          notification: { title, body },
+
+          android: {
+            priority: 'high',
+            notification: {
+              channelId: 'reminders',
+              sound: 'default',
             },
-            apns: { headers: { 'apns-priority': '10' } },
-            data: {
-              type: 'class_reminder',
-              minutesBefore: String(minutesBefore),
-              classStartIso: start.toISOString(),
-            },
-          };
+          },
 
-          sends.push(admin.messaging().send(msg));
-        }
+          apns: {
+            payload: {
+              aps: { alert: { title, body }, sound: 'default' }
+            }
+          },
+
+          // datos extra opcionales
+          data: {
+            type: 'class_reminder',
+            minutesBefore: String(minutesBefore),
+            classStartIso: start.toISOString(),
+            materia: String(h.materia ?? h.nombre ?? ''),
+          },
+        });
+
+        sendCount++;
       }
     }
   }
-
-  if (sends.length) {
-    await Promise.allSettled(sends);
-    console.log(`Sent ${sends.length} notifications`);
-  } else {
-    console.log('No notifications to send this tick.');
-  }
 }
 
-run().catch(e => {
-  console.error(e);
-  process.exit(1);
-});
+console.log(sendCount ? `Sent ${sendCount} notifications` : 'No notifications to send this tick.');
