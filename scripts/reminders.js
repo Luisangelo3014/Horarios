@@ -1,94 +1,127 @@
-const snap = await DB.collection('schedules').get();
-let sendCount = 0;
+// scripts/reminders.js  (versión completa, CommonJS)
 
-for (const doc of snap.docs) {
-  const data = doc.data();
+const admin = require('firebase-admin');
+const moment = require('moment-timezone');
 
-  // Toma el token del campo o del ID del doc
-  const token = data.token || doc.id;
-  if (!token) {
-    console.log(`⚠️  Documento ${doc.id} sin token. Saltando.`);
-    continue;
-  }
+// Lee credenciales del Secret de GitHub Actions
+const sa = JSON.parse(process.env.GCP_SA_KEY);
 
-  // Asegura arreglo de clases
-  const classes = Array.isArray(data.classes) ? data.classes : [];
-  if (!classes.length) {
-    console.log(`ℹ️  ${token.slice(0, 12)}… sin clases. Saltando.`);
-    continue;
-  }
+// Inicializa Admin SDK
+admin.initializeApp({
+  credential: admin.credential.cert(sa),
+  projectId: process.env.GCP_PROJECT_ID,
+});
 
-  const tz = data.tz || 'America/Mexico_City';
-  const now = moment().tz(tz);
-  const nowIsoWd = now.isoWeekday(); // 1 lunes … 7 domingo
+const DB = admin.firestore();
 
-  // Mapea día → número
-  const toWd = (dia) => {
-    const s = (dia || '').toLowerCase()
-      .replace('á','a').replace('é','e').replace('í','i')
-      .replace('ó','o').replace('ú','u').trim();
-    if (s.startsWith('lun')) return 1;
-    if (s.startsWith('mar')) return 2;
-    if (s.startsWith('mie')) return 3;
-    if (s.startsWith('jue')) return 4;
-    if (s.startsWith('vie')) return 5;
-    if (s.startsWith('sab')) return 6;
-    if (s.startsWith('dom')) return 7;
-    return 1;
-  };
+// Utilidad: mapa día (español) a isoWeekday (1=lu ... 7=do)
+function toWeekday(dia) {
+  const s = String(dia || '')
+    .toLowerCase()
+    .replaceAll('á','a').replaceAll('é','e').replaceAll('í','i').replaceAll('ó','o').replaceAll('ú','u')
+    .trim();
+  if (s.startsWith('lun')) return 1;
+  if (s.startsWith('mar')) return 2;
+  if (s.startsWith('mie')) return 3;
+  if (s.startsWith('jue')) return 4;
+  if (s.startsWith('vie')) return 5;
+  if (s.startsWith('sab')) return 6;
+  if (s.startsWith('dom')) return 7;
+  return 1;
+}
 
-  for (const h of classes) {
-    const wd = toWd(h.dia);
-    const [hh, mm] = String(h.inicio || '07:00').split(':').map(Number);
+async function run() {
+  const defaultTz = 'America/Mexico_City';
+  const snap = await DB.collection('schedules').get();
 
-    // próxima ocurrencia de esa clase
-    let start = now.clone().isoWeekday(wd).hour(hh).minute(mm).second(0).millisecond(0);
-    if (start.isBefore(now)) start = start.add(1, 'week');
+  console.log(`📚 Found ${snap.size} schedule doc(s).`);
 
-    for (const minutesBefore of [10, 5]) {
-      const execAt = start.clone().subtract(minutesBefore, 'minutes');
-      const diffMin = execAt.diff(now, 'minutes');
+  let sendCount = 0;
 
-      // ventana de disparo: entre -10 y +1 min de la marca objetivo
-      if (diffMin >= -10 && diffMin <= 1) {
-        const title = `Clase: ${h.materia ?? h.nombre ?? 'Materia'}`;
-        const body  = `Empieza a las ${start.format('HH:mm')}${h.salon ? ` • Salón ${h.salon}` : ''}`;
+  for (const doc of snap.docs) {
+    const data = doc.data();
 
-        console.log(`📤 Enviando a ${token.slice(0, 12)}…  (${minutesBefore} min antes)  ${title}`);
+    // Usa el token del campo o, si no existe, el ID del documento
+    const token = data.token || doc.id;
+    if (!token) {
+      console.log(`⚠️  Doc ${doc.id} sin token, se omite.`);
+      continue;
+    }
 
-        await admin.messaging().send({
-          token, // 👈 AHORA SÍ SIEMPRE HAY TOKEN
+    const classes = Array.isArray(data.classes) ? data.classes : [];
+    if (!classes.length) {
+      console.log(`ℹ️  ${token.slice(0, 12)}… sin clases, se omite.`);
+      continue;
+    }
 
-          // hace que Android muestre la noti en segundo plano
-          notification: { title, body },
+    const tz = data.tz || defaultTz;
+    const now = moment().tz(tz);
 
-          android: {
-            priority: 'high',
-            notification: {
-              channelId: 'reminders',
-              sound: 'default',
+    for (const cls of classes) {
+      const wd = toWeekday(cls.dia);
+      const [h, m] = String(cls.inicio || '07:00').split(':').map(Number);
+
+      // Próxima ocurrencia semanal de esa clase
+      let start = now.clone().isoWeekday(wd).hour(h).minute(m).second(0).millisecond(0);
+      if (start.isBefore(now)) start = start.add(1, 'week');
+
+      // Ventanas T-10 y T-5 (con tolerancia de 10 min hacia atrás y 1 min hacia adelante)
+      for (const minutesBefore of [10, 5]) {
+        const execAt = start.clone().subtract(minutesBefore, 'minutes');
+        const diffMin = execAt.diff(now, 'minutes');
+
+        if (diffMin >= -10 && diffMin <= 1) {
+          const title = `Clase: ${cls.materia ?? cls.nombre ?? 'Materia'}`;
+          const body = `Empieza a las ${start.format('HH:mm')}${cls.salon ? ` • Salón ${cls.salon}` : ''}`;
+
+          console.log(
+            `📤 Enviando a ${token.slice(0, 12)}… | ${title} | T-${minutesBefore} | ${start.format()} (${tz})`
+          );
+
+          await admin.messaging().send({
+            token,
+
+            // Hace que Android la muestre en segundo plano
+            notification: { title, body },
+
+            android: {
+              priority: 'high',
+              notification: {
+                channelId: 'reminders',
+                sound: 'default',
+              },
+              ttl: 40 * 60 * 1000, // 40 min
             },
-          },
 
-          apns: {
-            payload: {
-              aps: { alert: { title, body }, sound: 'default' }
-            }
-          },
+            apns: {
+              payload: {
+                aps: {
+                  alert: { title, body },
+                  sound: 'default',
+                },
+              },
+            },
 
-          // datos extra opcionales
-          data: {
-            type: 'class_reminder',
-            minutesBefore: String(minutesBefore),
-            classStartIso: start.toISOString(),
-            materia: String(h.materia ?? h.nombre ?? ''),
-          },
-        });
+            // Datos extra (opcionales)
+            data: {
+              type: 'class_reminder',
+              minutesBefore: String(minutesBefore),
+              classStartIso: start.toISOString(),
+              materia: String(cls.materia ?? cls.nombre ?? ''),
+            },
+          });
 
-        sendCount++;
+          sendCount++;
+        }
       }
     }
   }
+
+  console.log(sendCount ? `✅ Sent ${sendCount} notifications` : 'ℹ️ No notifications to send this tick.');
 }
 
-console.log(sendCount ? `Sent ${sendCount} notifications` : 'No notifications to send this tick.');
+// Ejecuta
+run().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
