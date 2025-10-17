@@ -1,4 +1,6 @@
 // scripts/reminders.js  (versión completa, CommonJS)
+console.log('Admin SA project_id:', JSON.parse(process.env.GCP_SA_KEY).project_id);
+console.log('ENV GCP_PROJECT_ID  :', process.env.GCP_PROJECT_ID);
 
 const admin = require('firebase-admin');
 const moment = require('moment-timezone');
@@ -125,3 +127,4 @@ run().catch((e) => {
   console.error(e);
   process.exit(1);
 });
+
