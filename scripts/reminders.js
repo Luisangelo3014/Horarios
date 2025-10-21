@@ -21,6 +21,9 @@ function initAdmin() {
   console.log('Admin projectId:', admin.app().options.projectId);
   console.log('SA email:', sa.client_email);
 
+  console.log('SA project_id:', sa.project_id);
+
+
   console.log('Admin projectId :', admin.app().options.projectId);
   console.log('Admin projNumber:', process.env.GCP_PROJECT_NUMBER);
 }
@@ -136,5 +139,6 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
 
 
