@@ -1,28 +1,25 @@
-
-// scripts/reminders.js (al iniciar)
-const admin = require('firebase-admin');
-const sa = JSON.parse(process.env.GCP_SA_KEY);
-admin.initializeApp({ credential: admin.credential.cert(sa), projectId: process.env.GCP_PROJECT_ID });
-
-console.log('Admin projectId:', admin.app().options.projectId);
-console.log('SA email:', sa.client_email);
-
+// scripts/reminders.js
+'use strict';
 
 const admin = require('firebase-admin');
 const moment = require('moment-timezone');
 
-// Lee credenciales del Secret de GitHub Actions
-const sa = JSON.parse(process.env.GCP_SA_KEY);
+// --- Inicialización única del Admin SDK ---
+function initAdmin() {
+  const sa = JSON.parse(process.env.GCP_SA_KEY || '{}');
+  if (!sa.client_email) {
+    throw new Error('GCP_SA_KEY no está definido o es inválido');
+  }
+  if (!admin.apps.length) {
+    admin.initializeApp({
+      credential: admin.credential.cert(sa),
+      projectId: process.env.GCP_PROJECT_ID,
+    });
+  }
+  console.log('Admin projectId:', admin.app().options.projectId);
+  console.log('SA email:', sa.client_email);
+}
 
-// Inicializa Admin SDK
-admin.initializeApp({
-  credential: admin.credential.cert(sa),
-  projectId: process.env.GCP_PROJECT_ID,
-});
-
-const DB = admin.firestore();
-
-// Utilidad: mapa día (español) a isoWeekday (1=lu ... 7=do)
 function toWeekday(dia) {
   const s = String(dia || '')
     .toLowerCase()
@@ -39,6 +36,9 @@ function toWeekday(dia) {
 }
 
 async function run() {
+  initAdmin();
+  const DB = admin.firestore();
+
   const defaultTz = 'America/Mexico_City';
   const snap = await DB.collection('schedules').get();
 
@@ -49,7 +49,7 @@ async function run() {
   for (const doc of snap.docs) {
     const data = doc.data();
 
-    // Usa el token del campo o, si no existe, el ID del documento
+    // Usa campo token o (fallback) id del doc
     const token = data.token || doc.id;
     if (!token) {
       console.log(`⚠️  Doc ${doc.id} sin token, se omite.`);
@@ -73,7 +73,7 @@ async function run() {
       let start = now.clone().isoWeekday(wd).hour(h).minute(m).second(0).millisecond(0);
       if (start.isBefore(now)) start = start.add(1, 'week');
 
-      // Ventanas T-10 y T-5 (con tolerancia de 10 min hacia atrás y 1 min hacia adelante)
+      // Ventanas T-10 y T-5 (tolerancia: -10 a +1 min)
       for (const minutesBefore of [10, 5]) {
         const execAt = start.clone().subtract(minutesBefore, 'minutes');
         const diffMin = execAt.diff(now, 'minutes');
@@ -86,40 +86,28 @@ async function run() {
             `📤 Enviando a ${token.slice(0, 12)}… | ${title} | T-${minutesBefore} | ${start.format()} (${tz})`
           );
 
-          await admin.messaging().send({
-            token,
-
-            // Hace que Android la muestre en segundo plano
-            notification: { title, body },
-
-            android: {
-              priority: 'high',
-              notification: {
-                channelId: 'reminders',
-                sound: 'default',
+          try {
+            await admin.messaging().send({
+              token,
+              notification: { title, body },
+              android: {
+                priority: 'high',
+                notification: { channelId: 'reminders', sound: 'default' },
+                ttl: 40 * 60 * 1000,
               },
-              ttl: 40 * 60 * 1000, // 40 min
-            },
-
-            apns: {
-              payload: {
-                aps: {
-                  alert: { title, body },
-                  sound: 'default',
-                },
+              apns: { payload: { aps: { alert: { title, body }, sound: 'default' } } },
+              data: {
+                type: 'class_reminder',
+                minutesBefore: String(minutesBefore),
+                classStartIso: start.toISOString(),
+                materia: String(cls.materia ?? cls.nombre ?? ''),
               },
-            },
-
-            // Datos extra (opcionales)
-            data: {
-              type: 'class_reminder',
-              minutesBefore: String(minutesBefore),
-              classStartIso: start.toISOString(),
-              materia: String(cls.materia ?? cls.nombre ?? ''),
-            },
-          });
-
-          sendCount++;
+            });
+            sendCount++;
+          } catch (e) {
+            // No detengas todo el job si un token falla
+            console.error(`❌ Error enviando a ${token.slice(0,12)}…:`, e?.errorInfo?.code || e?.code || e.message);
+          }
         }
       }
     }
@@ -128,12 +116,13 @@ async function run() {
   console.log(sendCount ? `✅ Sent ${sendCount} notifications` : 'ℹ️ No notifications to send this tick.');
 }
 
-// Ejecuta
-run().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+// Ejecuta como script
+if (require.main === module) {
+  run().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
+}
 
-
-
-
+// Exporta para pruebas (opcional)
+module.exports = { run };
