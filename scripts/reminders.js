@@ -1,4 +1,13 @@
 
+// scripts/reminders.js (al iniciar)
+const admin = require('firebase-admin');
+const sa = JSON.parse(process.env.GCP_SA_KEY);
+admin.initializeApp({ credential: admin.credential.cert(sa), projectId: process.env.GCP_PROJECT_ID });
+
+console.log('Admin projectId:', admin.app().options.projectId);
+console.log('SA email:', sa.client_email);
+
+
 const admin = require('firebase-admin');
 const moment = require('moment-timezone');
 
@@ -124,6 +133,7 @@ run().catch((e) => {
   console.error(e);
   process.exit(1);
 });
+
 
 
 
