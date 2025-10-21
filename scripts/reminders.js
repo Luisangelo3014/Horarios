@@ -48,13 +48,18 @@ async function run() {
 
   for (const doc of snap.docs) {
     const data = doc.data();
+    // justo antes de: const token = data.token || doc.id;
+    const docId = doc.id;
+    const tokenField = data.token;
+    console.log('📄 Doc:', docId.slice(0,12), '| token(field):', tokenField?.slice(0,12));
 
     // Usa campo token o (fallback) id del doc
-    const token = data.token || doc.id;
+   const token = data.token; // <- sin fallback
     if (!token) {
-      console.log(`⚠️  Doc ${doc.id} sin token, se omite.`);
-      continue;
+    console.log(`⚠️ Doc ${doc.id} sin campo token (ID es ${doc.id.slice(0,12)}…), se omite.`);
+    continue;
     }
+
 
     const classes = Array.isArray(data.classes) ? data.classes : [];
     if (!classes.length) {
@@ -126,3 +131,4 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
