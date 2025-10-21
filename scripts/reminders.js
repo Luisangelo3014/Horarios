@@ -4,6 +4,8 @@
 const admin = require('firebase-admin');
 const moment = require('moment-timezone');
 
+
+
 // --- Inicialización única del Admin SDK ---
 function initAdmin() {
   const sa = JSON.parse(process.env.GCP_SA_KEY || '{}');
@@ -18,6 +20,9 @@ function initAdmin() {
   }
   console.log('Admin projectId:', admin.app().options.projectId);
   console.log('SA email:', sa.client_email);
+
+  console.log('Admin projectId :', admin.app().options.projectId);
+  console.log('Admin projNumber:', process.env.GCP_PROJECT_NUMBER);
 }
 
 function toWeekday(dia) {
@@ -131,4 +136,5 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
 
