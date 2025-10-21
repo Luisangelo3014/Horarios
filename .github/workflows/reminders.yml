@@ -2,12 +2,18 @@ name: Send Class Reminders
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # cada 5 minutos (cámbialo a "*/1" si quieres probar al minuto)
+    - cron: "*/5 * * * *"   # cada 5 minutos
   workflow_dispatch: {}      # permite Run workflow manual
 
 jobs:
   send-reminders:
     runs-on: ubuntu-latest
+    env:                     # 👈 MUEVE AQUÍ TUS SECRETS
+      GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+      GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+      GCP_PROJECT_NUMBER: ${{ secrets.GCP_PROJECT_NUMBER }}
+      TEST_FCM_TOKEN: ${{ secrets.TEST_FCM_TOKEN }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -21,8 +27,4 @@ jobs:
         run: npm install firebase-admin moment-timezone
 
       - name: Run reminders
-        env:
-          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
-          GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
-          GCP_PROJECT_NUMBER: ${{ secrets.GCP_PROJECT_NUMBER }}
         run: node scripts/reminders.js
