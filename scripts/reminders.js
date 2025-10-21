@@ -4,7 +4,7 @@
 const admin = require('firebase-admin');
 const moment = require('moment-timezone');
 
-
+console.log('🔧 Env keys loaded:', Object.keys(process.env).filter(k => k.startsWith('GCP_')));
 
 // --- Inicialización única del Admin SDK ---
 function initAdmin() {
@@ -139,6 +139,7 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
 
 
 
