@@ -74,28 +74,33 @@ async function run() {
   let sendCount = 0;
 
   for (const doc of snap.docs) {
-    const data = doc.data();
-    // justo antes de: const token = data.token || doc.id;
-    const docId = doc.id;
-    const tokenField = data.token;
-    console.log('📄 Doc:', docId.slice(0,12), '| token(field):', tokenField?.slice(0,12));
+  const data = doc.data();
 
-    // Usa campo token o (fallback) id del doc
-   const token = data.token; // <- sin fallback
-    if (!token) {
-    console.log(`⚠️ Doc ${doc.id} sin campo token (ID es ${doc.id.slice(0,12)}…), se omite.`);
+  // 🔹 Funciones utilitarias (seguras para logs)
+  const safe = (t) =>
+    typeof t === 'string' && t.length > 12
+      ? `${t.slice(0, 12)}…${t.slice(-6)}`
+      : String(t);
+
+  const isLikelyValidFcmToken = (t) =>
+    typeof t === 'string' && t.length > 120 && t.includes(':') && !t.includes(' ');
+
+  const token = data.token;
+  if (!isLikelyValidFcmToken(token)) {
+    console.log(`⚠️ Doc ${safe(doc.id)} token inválido (len=${String(token || '').length}), skip.`);
     continue;
-    }
+  }
 
+  console.log('📄 Doc:', safe(doc.id), '| token(field):', safe(token));
 
-    const classes = Array.isArray(data.classes) ? data.classes : [];
-    if (!classes.length) {
-      console.log(`ℹ️  ${token.slice(0, 12)}… sin clases, se omite.`);
-      continue;
-    }
+  const classes = Array.isArray(data.classes) ? data.classes : [];
+  if (!classes.length) {
+    console.log(`ℹ️ ${safe(token)} sin clases, skip.`);
+    continue;
+  }
 
-    const tz = data.tz || defaultTz;
-    const now = moment().tz(tz);
+  const tz = data.tz || defaultTz;
+  const now = moment().tz(tz);
 
     for (const cls of classes) {
       const wd = toWeekday(cls.dia);
@@ -158,6 +163,7 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
 
 
 
