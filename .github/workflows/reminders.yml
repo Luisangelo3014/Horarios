@@ -3,12 +3,12 @@ name: Send Class Reminders
 on:
   schedule:
     - cron: "*/5 * * * *"   # cada 5 minutos
-  workflow_dispatch: {}      # permite Run workflow manual
+  workflow_dispatch: {}
 
 jobs:
   send-reminders:
     runs-on: ubuntu-latest
-    env:                     # 👈 MUEVE AQUÍ TUS SECRETS
+    env:
       GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
       GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
       GCP_PROJECT_NUMBER: ${{ secrets.GCP_PROJECT_NUMBER }}
@@ -25,6 +25,17 @@ jobs:
 
       - name: Install deps
         run: npm install firebase-admin moment-timezone
+
+      # Diagnóstico seguro (sin imprimir el secret)
+      - name: Check env presence
+        shell: bash
+        run: |
+          [[ -n "$GCP_PROJECT_ID" ]] && echo "GCP_PROJECT_ID ✅" || (echo "GCP_PROJECT_ID ❌" && exit 1)
+          [[ -n "$GCP_PROJECT_NUMBER" ]] && echo "GCP_PROJECT_NUMBER ✅" || (echo "GCP_PROJECT_NUMBER ❌" && exit 1)
+          [[ -n "$GCP_SA_KEY" ]] && echo "GCP_SA_KEY present ✅ (no se imprime)" || (echo "GCP_SA_KEY ❌" && exit 1)
+
+          # Solo longitud del SA para confirmar (no revela contenido)
+          echo "SA length: ${#GCP_SA_KEY}"
 
       - name: Run reminders
         run: node scripts/reminders.js
