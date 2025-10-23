@@ -125,21 +125,24 @@ async function run() {
 
           try {
             await admin.messaging().send({
-              token,
-              notification: { title, body },
-              android: {
-                priority: 'high',
-                notification: { channelId: 'reminders', sound: 'default' },
-                ttl: 40 * 60 * 1000,
-              },
-              apns: { payload: { aps: { alert: { title, body }, sound: 'default' } } },
-              data: {
-                type: 'class_reminder',
-                minutesBefore: String(minutesBefore),
-                classStartIso: start.toISOString(),
-                materia: String(cls.materia ?? cls.nombre ?? ''),
-              },
-            });
+            token,
+            notification: { title, body },     // <- importante para que Android/iOS muestren banner en bg/quit
+            android: {
+              priority: 'high',
+              // ❌ NO pongas channelId si no creas el canal
+              // notification: { channelId: 'reminders', sound: 'default' },
+              // ✅ Si quieres sonido, puedes dejarlo SIN channelId:
+              notification: { sound: 'default' },
+              ttl: 40 * 60 * 1000,
+            },
+            apns: { payload: { aps: { alert: { title, body }, sound: 'default' } } },
+            data: {
+              type: 'class_reminder',
+              minutesBefore: String(minutesBefore),
+              classStartIso: start.toISOString(),
+              materia: String(cls.materia ?? cls.nombre ?? ''),
+            },
+          });
             sendCount++;
           } catch (e) {
             // No detengas todo el job si un token falla
@@ -163,6 +166,7 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
 
 
 
