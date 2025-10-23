@@ -4,29 +4,48 @@
 const admin = require('firebase-admin');
 const moment = require('moment-timezone');
 
-console.log('🔧 Env keys loaded:', Object.keys(process.env).filter(k => k.startsWith('GCP_')));
+function readServiceAccount() {
+  const raw = process.env.GCP_SA_KEY;
+  if (!raw) throw new Error('GCP_SA_KEY no está definido');
 
-// --- Inicialización única del Admin SDK ---
-function initAdmin() {
-  const sa = JSON.parse(process.env.GCP_SA_KEY || '{}');
-  if (!sa.client_email) {
-    throw new Error('GCP_SA_KEY no está definido o es inválido');
+  // 1) quita comillas envolventes accidentales
+  let txt = raw.trim();
+  if ((txt.startsWith('"') && txt.endsWith('"')) || (txt.startsWith("'") && txt.endsWith("'"))) {
+    txt = txt.slice(1, -1);
   }
+
+  // 2) intenta JSON directo
+  try {
+    return JSON.parse(txt);
+  } catch (_) { /* continúa */ }
+
+  // 3) intenta base64 -> JSON
+  try {
+    const decoded = Buffer.from(txt, 'base64').toString('utf8');
+    return JSON.parse(decoded);
+  } catch (_) { /* continúa */ }
+
+  throw new Error('GCP_SA_KEY no es JSON válido ni JSON en base64');
+}
+
+function initAdmin() {
+  const sa = readServiceAccount();
+
   if (!admin.apps.length) {
     admin.initializeApp({
       credential: admin.credential.cert(sa),
-      projectId: process.env.GCP_PROJECT_ID,
+      projectId: process.env.GCP_PROJECT_ID || sa.project_id, // fallback seguro
     });
   }
-  console.log('Admin projectId:', admin.app().options.projectId);
-  console.log('SA email:', sa.client_email);
 
-  console.log('SA project_id:', sa.project_id);
-
-
-  console.log('Admin projectId :', admin.app().options.projectId);
-  console.log('Admin projNumber:', process.env.GCP_PROJECT_NUMBER);
+  // Logs seguros (no imprimen secretos)
+  console.log('✅ Admin inicializado');
+  console.log('  projectId:', admin.app().options.projectId);
+  console.log('  SA email :', sa.client_email);
+  console.log('  SA projId:', sa.project_id);
+  console.log('  GCP proj#:', process.env.GCP_PROJECT_NUMBER);
 }
+
 
 function toWeekday(dia) {
   const s = String(dia || '')
@@ -139,6 +158,7 @@ if (require.main === module) {
 
 // Exporta para pruebas (opcional)
 module.exports = { run };
+
 
 
 
